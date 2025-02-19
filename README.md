@@ -1,1 +1,2 @@
-# terra
+# About
+Integrating Jenkins and Terraform enables automated Infrastructure as Code (IaC) deployment in CI/CD pipelines. Jenkins automates the execution of Terraform scripts, ensuring consistent and repeatable infrastructure provisioning. By using plugins and pipelines, Jenkins can trigger Terraform commands like init, plan, and apply based on version control changes. This integration enhances DevOps workflows by enabling automated infrastructure updates, approvals, and rollbacks. Secure credential management in Jenkins ensures safe handling of cloud provider authentication.
